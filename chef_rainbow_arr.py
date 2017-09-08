@@ -1,7 +1,11 @@
 
-import sys
-import numpy as np
 
+
+
+"""
+Solving this problem :
+https://www.codechef.com/problems/RAINBOWA
+"""
 
 " function to test rainbow array "
 def isRainbow(r):
